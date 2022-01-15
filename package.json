@@ -73,7 +73,7 @@
     "react-router-dom": "4.3.0",
     "@types/marked": "0.3.0",
     "@types/codemirror": "0.0.56",
-    "marked": "0.3.19",
+    "marked": "4.0.10",
     "codemirror": "5.51.0",
     "tributejs": "3.7.3",
     "@syncfusion/ej2-barcode-generator": "17.4.49",
